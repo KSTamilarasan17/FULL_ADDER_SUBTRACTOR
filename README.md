@@ -83,8 +83,8 @@ output BO,DIFF;
 assign DIFF = a ^ b ^ Bin;
   assign BO = (a & b) | ((a ^ b) & Bin);
 endmodule
-Developed by: RIYA P L
-RegisterNumber: 212223240141
+Developed by: TAMILARASAN K S
+RegisterNumber: 21222310056
 */
 ```
 ## RTL Schematic
